@@ -3,8 +3,8 @@
 This is a computer program implementing a neural network that learns to recognize handwritten digits. The program is just few lines long, and uses no special neural network libraries (however Scikit-learn is used for supervised learning). But this short program can recognize digits with an accuracy over 96 percent, without human intervention. 
 
 # Libraries used :
-1. Numpy
-2. Pandas
+1. Numpy package
+2. Pandas 
 3. Matplotlib
 4. Scikit-Learn
 
