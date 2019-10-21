@@ -4,7 +4,7 @@ This is a computer program implementing a neural network that learns to recogniz
 
 # Libraries used :
 1. Numpy package
-2. Pandas 
+2. Pandas.
 3. Matplotlib
 4. Scikit-Learn
 
